@@ -1,5 +1,2 @@
-YOLO_format/
-.DS_Store
-__pycache__/
-.ipynb_checkpoints/.ipynb_checkpoints/
+.ipynb_checkpoints/
 .vscode/
